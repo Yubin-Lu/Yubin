@@ -85,7 +85,7 @@ author:
   bio              : "Postdoctoral Fellow"
   location         : "Chicago, IL"
   employer         : "Illinois Institute of Technology"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "ylu117@iit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
