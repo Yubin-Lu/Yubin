@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Yubin Lu"
 title_separator          : "-"
 name                     : &name "Yubin Lu"
-description              : &description "Postdoctoral Fellow in Applied Math"
-url                      : https://Yubin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Postdoc in Applied Math"
+url                      : https://jqduan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Yubin Lu"
-  avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow"
+  avatar           : "Lu.jpeg"
+  bio              : "Postdoc"
   location         : "Chicago, IL"
   employer         : "Illinois Institute of Technology"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  semantic         : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tZERtd8AAAAJ"
   email            : "ylu117@iit.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yubin-Lu-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -187,6 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -309,4 +310,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
