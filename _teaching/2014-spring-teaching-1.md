@@ -3,7 +3,7 @@ title: "Calculus 2"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
-venue: "Illinois Institute of Technology, Department"
+venue: "Illinois Institute of Technology"
 date: 2023-08-21
 location: "Chicago, USA"
 ---
