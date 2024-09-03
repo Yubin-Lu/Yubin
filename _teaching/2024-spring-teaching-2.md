@@ -1,7 +1,7 @@
 ---
 title: "Calculus 1"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-2
 venue: "Illinois Institute of Technology"
 date: 2024-01-09
