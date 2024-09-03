@@ -8,4 +8,4 @@ date: 2024-01-09
 location: "Chicago, USA"
 ---
 
-Functions and limits; Derivatives; Applications of Differentiation; Integrals; Applications of Intergration
+Topics: Functions and limits; Derivatives; Applications of Differentiation; Integrals; Applications of Intergration
