@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Calculus 2"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-fall-teaching-1
+venue: "Illinois Institute of Technology, Department"
+date: 2023-08-21
+location: "Chicago, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Inverse functions; Techniques of integration;  Further applications of integration; Differential equations; Parametric equations and polar coordinates; Sequences, series, and power series
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
