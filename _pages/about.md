@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Department of Applied Mathematics <br />
-Illinois Institute of Technology <br />
-Chicago, IL 60616 <br />
-Office: RE 117D
+School of Mathematics <br />
+South China University of Technology <br />
+Guangzhou, Guangdong 510640, China <br />
 
 Research Interests
 ======
@@ -19,4 +18,4 @@ My research interests include Stochastic Dynamics, Data-driven Modeling, Numeric
 
 Short Biography
 ======
-I'm currently a senior Research Associate at Illinois Institute of Technology. Before that, I obtained my Ph.D. in School of Mathematics and Statistics at Huazhong University of Science and Technology.
+I‘m currently an Assistant Professor in the School of Mathematics at South China University of Technology(SCUT). Prior to joining SCUT, I was a Senior Research Associate at the Illinois Institute of Technology. I received my Ph.D. from the School of Mathematics and Statistics at Huazhong University of Science and Technology.
