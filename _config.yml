@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yubin Lu"
 title_separator          : "-"
 name                     : &name "Yubin Lu"
-description              : &description "Postdoc in Applied Math"
+description              : &description "Assistant Professor in Applied Math"
 url                      : https://yubin-lu.github.io/Yubin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yubin Lu"
   avatar           : "Lu.jpg"
-  bio              : "Postdoc"
-  location         : "Chicago, IL"
-  employer         : "Illinois Institute of Technology"
+  bio              : "Assistant Professor"
+  location         : "Guangzhou, Guangdong"
+  employer         : "South China University of Technology"
   semantic         : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tZERtd8AAAAJ"
-  email            : "ylu117@iit.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=Vv4-jsoAAAAJ&hl=en"
+  email            : "ylu117@scut.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Yubin-Lu-4"
   uri              :
   bitbucket        :
